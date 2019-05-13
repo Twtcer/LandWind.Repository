@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LandWind.Repository.Web", "LandWind.Repository.Web\LandWind.Repository.Web.csproj", "{3180DC6D-1925-44C4-BC3D-CBC5E0F74E2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LandWind.Repository.Test", "LandWind.Repository.Test\LandWind.Repository.Test.csproj", "{E5354FBA-CCA4-418D-A804-486B4697E11F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LandWind.Repository.Core", "LandWind.Repository.Core\LandWind.Repository.Core.csproj", "{694CC6FA-697A-42A9-866A-55F81F8AAED7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LandWind.Repository.Model", "LandWind.Repository.Model\LandWind.Repository.Model.csproj", "{6FFF4B21-3FB1-4F30-8C9E-382434487872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandWind.Repository.Service", "LandWind.Repository.Service\LandWind.Repository.Service.csproj", "{75CE39AC-C1B1-4F91-BF18-143D664B89E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3180DC6D-1925-44C4-BC3D-CBC5E0F74E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3180DC6D-1925-44C4-BC3D-CBC5E0F74E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3180DC6D-1925-44C4-BC3D-CBC5E0F74E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3180DC6D-1925-44C4-BC3D-CBC5E0F74E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5354FBA-CCA4-418D-A804-486B4697E11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5354FBA-CCA4-418D-A804-486B4697E11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5354FBA-CCA4-418D-A804-486B4697E11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5354FBA-CCA4-418D-A804-486B4697E11F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694CC6FA-697A-42A9-866A-55F81F8AAED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694CC6FA-697A-42A9-866A-55F81F8AAED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694CC6FA-697A-42A9-866A-55F81F8AAED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694CC6FA-697A-42A9-866A-55F81F8AAED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FFF4B21-3FB1-4F30-8C9E-382434487872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFF4B21-3FB1-4F30-8C9E-382434487872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFF4B21-3FB1-4F30-8C9E-382434487872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFF4B21-3FB1-4F30-8C9E-382434487872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75CE39AC-C1B1-4F91-BF18-143D664B89E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CE39AC-C1B1-4F91-BF18-143D664B89E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CE39AC-C1B1-4F91-BF18-143D664B89E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CE39AC-C1B1-4F91-BF18-143D664B89E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CCFEEB1-373D-4DFC-9F3C-F894B8239006}
+	EndGlobalSection
+EndGlobal
